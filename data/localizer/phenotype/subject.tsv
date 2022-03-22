@@ -1,0 +1,95 @@
+participant_id	localizer_short_easy	protocol	scanner	family	motor_error	laterality	site	sex	schizophrenic	id	dyslexic	father	comments	tr	excluded	basic	localizer_long_complex	type	sound_problem	epi_problem	statistics_spm5	exam	localizer_short_complex	anatomy	dyscalculic	language	localizer_long_easy	age	video_problem	synaesthete	mother	acquisition
+S01	n/a	UNICOG	3	F01	n/a	Right handed	SHFJ	M	n/a	404	n/a	0	Localizer not done	n/a	n/a	True	n/a	Basic	n/a	n/a	n/a	S01	n/a	n/a	n/a	French	n/a	24	n/a	n/a	0	0
+S02	False	UNICOG	3	F02	n/a	Right handed	SHFJ	M	n/a	191	n/a	0	son a 50% audible pour les histoires	2.4	False	True	False	Basic	True	n/a	True	S02	True	n/a	n/a	French	False	20	n/a	n/a	0	1
+S03	False	UNICOG	3	F03	n/a	Right handed	SHFJ	F	n/a	228	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S03	True	n/a	n/a	French	False	22	n/a	n/a	0	1
+S04	False	UNICOG	3	F04	False	Right handed	Neurospin	M	n/a	320	n/a	0	Substractions difficulties	2.4	False	True	False	Basic	False	n/a	True	S04	True	Ok	n/a	French	False	20	True	n/a	0	1
+S05	False	UNICOG	3	F05	False	Right handed	Neurospin	F	n/a	341	n/a	0	Substractions were difficult for him/her	2.4	n/a	True	False	Basic	False	n/a	n/a	S05	True	Ok	n/a	French	False	23	False	n/a	0	1
+S06	False	UNICOG	3	F06	True	Right handed	Neurospin	M	n/a	311	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S06	True	Ok	n/a	French	False	19	True	n/a	0	1
+S07	False	UNICOG	3	F07	True	Right handed	Neurospin	F	n/a	316	n/a	0	Substractions difficulties, pushing mistake 1 time	2.4	False	True	False	Basic	False	n/a	True	S07	True	Ok	n/a	French	False	26	True	n/a	0	1
+S08	False	UNICOG	3	F89	True	Right handed	Neurospin	M	n/a	347	n/a	0	Rare pushing mistakes	2.4	n/a	True	False	Basic	False	n/a	n/a	S08	True	Ok	n/a	French	False	27	False	n/a	0	1
+S09	False	UNICOG	3	F09	False	Right handed	Neurospin	F	n/a	326	n/a	0	Right side more activated in audio contrast	2.4	False	True	False	Basic	False	n/a	n/a	S09	True	Ok	n/a	French	False	21	False	n/a	0	1
+S10	False	UNICOG	3	F10	n/a	Right handed	SHFJ	F	n/a	176	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S10	True	n/a	n/a	French	False	24	n/a	n/a	0	1
+S11	False	UNICOG	3	F11	n/a	Right handed	SHFJ	F	n/a	193	n/a	0	son trop bas, plusieurs pharses inaudibles	2.4	False	True	False	Basic	True	n/a	True	S11	True	n/a	n/a	French	False	47	n/a	True	0	1
+S12	False	UNICOG	3	F12	n/a	Right handed	SHFJ	F	n/a	201	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S12	True	n/a	n/a	French	False	23	n/a	n/a	0	1
+S13	False	UNICOG	3	F13	False	Right handed	Neurospin	M	n/a	365	n/a	0	n/a	2.4	True	True	False	Basic	False	n/a	True	S13	True	Ok	n/a	French	False	19	False	n/a	0	1
+S14	False	UNICOG	3	F14	n/a	Right handed	SHFJ	F	n/a	247	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S14	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S15	False	UNICOG	3	F15	n/a	Right handed	SHFJ	F	n/a	11	n/a	0	6 sessions+seq.Fovea	2.4	False	True	False	Basic	n/a	n/a	True	S15	True	ok	n/a	French	False	22	n/a	n/a	0	1
+S16	False	UNICOG	3	F16	n/a	Right handed	SHFJ	F	n/a	218	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S16	True	n/a	n/a	French	False	24	n/a	n/a	0	1
+S17	n/a	UNICOG	3	F17	n/a	Right handed	SHFJ	M	n/a	351	n/a	0	Localizer not done	n/a	n/a	True	n/a	Basic	n/a	n/a	n/a	S17	n/a	n/a	n/a	French	n/a	22	n/a	n/a	0	0
+S18	False	UNICOG	3	F18	True	Right handed	Neurospin	F	n/a	310	n/a	0	Sound too high, substractions difficulties, pushing errors	2.4	False	True	False	Basic	True	n/a	True	S18	True	Ok	n/a	French	False	20	True	n/a	0	1
+S19	False	UNICOG	3	F52	n/a	Right handed	SHFJ	M	n/a	204	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S19	True	n/a	n/a	French	False	18	n/a	n/a	0	1
+S20	False	UNICOG	3	F20	n/a	Right handed	SHFJ	F	n/a	179	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S20	True	n/a	n/a	French	False	25	n/a	n/a	0	1
+S21	False	UNICOG	3	F21	n/a	Right handed	SHFJ	M	n/a	150	n/a	0	meme que S21 et <sanitized>	2.4	False	True	False	Basic	n/a	n/a	True	S21	True	n/a	n/a	French	False	21	n/a	n/a	0	3
+S22	False	UNICOG	3	F22	n/a	Right handed	SHFJ	M	n/a	209	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S22	True	n/a	n/a	French	False	40	n/a	n/a	0	1
+S23	False	UNICOG	3	F23	False	Right handed	Neurospin	F	n/a	334	n/a	0	Substrations difficulties	2.4	False	True	False	Basic	False	n/a	n/a	S23	True	Ok	n/a	French	False	24	True	n/a	0	1
+S24	False	UNICOG	3	F24	False	Right handed	Neurospin	F	n/a	323	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	n/a	S24	True	Ok	n/a	French	False	18	False	n/a	0	1
+S25	False	UNICOG	3	F25	n/a	Right handed	SHFJ	F	n/a	202	n/a	0	meme que S25	2.4	False	True	False	Basic	False	n/a	True	S25	True	n/a	n/a	French	False	24	n/a	n/a	0	2
+S26	False	UNICOG	3	F26	False	Right handed	Neurospin	F	n/a	349	n/a	0	Some substraction errors. Voxel size (localizer) : 2x2x3 mm^3	2.4	n/a	True	False	Basic	False	n/a	True	S26	True	axial+artefacts	n/a	French	False	24	True	n/a	0	1
+S27	False	UNICOG	3	F27	False	Right handed	Neurospin	M	n/a	330	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	n/a	S27	True	Ok	n/a	French	False	30	False	n/a	0	1
+S28	False	UNICOG	3	F28	True	Right handed	Neurospin	F	n/a	345	n/a	0	Pushing mistakes 3 times	2.4	n/a	True	False	Basic	False	n/a	n/a	S28	True	Ok	n/a	French	False	18	False	n/a	0	1
+S29	False	UNICOG	3	F29	False	Right handed	Neurospin	F	n/a	339	n/a	0	Weak activation in Checkboard contrast	2.4	False	True	False	Basic	False	n/a	n/a	S29	True	Ok	n/a	French	False	21	False	n/a	0	1
+S30	False	UNICOG	3	F30	n/a	Right handed	SHFJ	F	n/a	194	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S30	True	n/a	n/a	French	False	34	n/a	n/a	0	1
+S31	False	UNICOG	3	F31	False	Right handed	Neurospin	F	n/a	344	n/a	0	n/a	2.4	n/a	True	False	Basic	False	n/a	n/a	S31	True	Ok	n/a	French	False	22	False	n/a	0	1
+S32	False	UNICOG	3	F32	n/a	Right handed	SHFJ	F	n/a	206	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S32	True	n/a	n/a	French	False	26	n/a	n/a	0	1
+S33	False	UNICOG	3	F33	n/a	Right handed	SHFJ	F	n/a	240	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S33	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S34	False	UNICOG	3	F34	n/a	Right handed	SHFJ	M	n/a	214	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S34	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S35	False	UNICOG	3	F35	n/a	Right handed	SHFJ	F	n/a	246	n/a	0	meme que S35 - reglage shim mauvais selon Antoinette	2.4	False	True	False	Basic	False	True	True	S35	True	n/a	n/a	French	False	24	n/a	n/a	0	2
+S36	False	UNICOG	3	F36	n/a	Right handed	SHFJ	F	n/a	224	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S36	True	n/a	n/a	French	False	25	n/a	n/a	0	1
+S37	False	UNICOG	3	F37	False	Right handed	Neurospin	M	n/a	362	n/a	0	n/a	2.4	False	True	False	Basic	False	False	True	S37	True	Ok	n/a	French	False	22	False	n/a	0	1
+S38	False	UNICOG	3	F38	n/a	Right handed	SHFJ	M	n/a	213	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S38	True	n/a	n/a	French	False	n/a	n/a	n/a	0	1
+S39	False	UNICOG	3	F39	n/a	Right handed	SHFJ	M	n/a	243	n/a	0	meme que S39	2.4	False	True	False	Basic	False	n/a	True	S39	True	n/a	n/a	French	False	22	n/a	n/a	0	2
+S40	False	UNICOG	3	F40	n/a	Right handed	SHFJ	F	n/a	221	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S40	True	n/a	n/a	French	False	24	n/a	True	0	1
+S41	False	UNICOG	3	F41	n/a	Right handed	Neurospin	M	n/a	738	n/a	0	n/a	2.4	n/a	True	False	Basic	n/a	n/a	True	S41	True	n/a	n/a	French	False	18	n/a	n/a	0	4
+S42	False	UNICOG	3	F42	False	Right handed	Neurospin	M	n/a	318	n/a	0	Problemes de normalisation des images (centre des images trop loin de l'axe CA-CP). Resolu a la main	2.4	False	True	False	Basic	False	n/a	True	S42	True	Ok	n/a	French	False	26	False	n/a	0	1
+S43	False	UNICOG	3	F43	False	Right handed	Neurospin	M	n/a	358	n/a	0	Sound problems (head phones). Voxel size (localizer) : 2x2x3 mm^3	2.4	n/a	True	False	Basic	True	n/a	True	S43	True	n/a	n/a	French	False	49	False	n/a	0	1
+S44	False	UNICOG	3	F44	n/a	Right handed	SHFJ	F	n/a	203	n/a	0	meme que <sanitized>	2.4	False	True	False	Basic	False	n/a	True	S44	True	n/a	n/a	French	False	34	n/a	n/a	0	2
+S45	False	UNICOG	3	F45	n/a	Right handed	SHFJ	M	n/a	184	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S45	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S46	False	UNICOG	3	F46	False	Right handed	Neurospin	F	n/a	315	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S46	True	Ok	n/a	French	False	24	False	n/a	0	1
+S47	False	UNICOG	3	F47	n/a	Right handed	SHFJ	M	n/a	244	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S47	True	n/a	n/a	French	False	19	n/a	n/a	0	1
+S48	False	UNICOG	3	F48	n/a	Right handed	SHFJ	F	n/a	182	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S48	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S49	False	UNICOG	3	F49	n/a	Right handed	SHFJ	F	n/a	186	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S49	True	n/a	n/a	French	False	22	n/a	n/a	0	1
+S50	False	UNICOG	3	F50	n/a	Right handed	SHFJ	F	n/a	352	n/a	0	Localizer not done	2.4	n/a	True	False	Basic	n/a	n/a	n/a	S50	False	n/a	n/a	French	False	32	n/a	n/a	0	2
+S51	False	UNICOG	3	F51	n/a	Right handed	SHFJ	M	n/a	189	n/a	0	son trop bas, plusieurs pharses inaudibles	2.4	False	True	False	Basic	True	n/a	True	S51	True	n/a	n/a	French	False	30	n/a	n/a	0	1
+S52	False	UNICOG	3	F52	n/a	Right handed	SHFJ	F	n/a	230	n/a	0	anat avec un echo lumineux	2.4	False	True	False	Basic	False	n/a	True	S52	True	n/a	n/a	French	False	22	n/a	n/a	0	1
+S53	False	UNICOG	3	F53	False	Right handed	Neurospin	F	n/a	340	n/a	0	Little difficulty to read the sentences ?	2.4	n/a	True	False	Basic	False	n/a	True	S53	True	Ok	n/a	French	False	18	False	n/a	0	1
+S54	False	UNICOG	3	F54	n/a	Right handed	SHFJ	F	n/a	197	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S54	True	n/a	n/a	French	False	20	n/a	n/a	0	1
+S55	False	UNICOG	3	F55	False	Right handed	Neurospin	F	n/a	342	n/a	0	Substractions were difficult for him/her	2.4	n/a	True	False	Basic	False	n/a	n/a	S55	True	Ok	n/a	French	False	21	False	n/a	0	1
+S56	False	UNICOG	3	F56	False	Right handed	Neurospin	M	n/a	336	n/a	0	Acquisition of anatomy in axial (pilote, the rest are in sagittal)	2.4	False	True	False	Basic	False	n/a	n/a	S56	True	Ok	n/a	French	False	23	True	n/a	0	4
+S57	False	UNICOG	3	F57	n/a	Right handed	SHFJ	F	n/a	199	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S57	True	n/a	n/a	French	False	20	n/a	n/a	0	1
+S58	False	UNICOG	3	F58	n/a	Right handed	SHFJ	M	n/a	225	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S58	True	n/a	n/a	French	False	34	n/a	n/a	0	1
+S59	False	UNICOG	3	F59	n/a	Right handed	SHFJ	M	n/a	227	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S59	True	n/a	n/a	French	False	30	n/a	n/a	0	1
+S60	n/a	UNICOG	3	F60	n/a	Right handed	Neurospin	M	n/a	357	n/a	0	Localizer not done	n/a	n/a	True	n/a	Basic	n/a	n/a	n/a	S60	n/a	n/a	n/a	French	n/a	21	n/a	n/a	0	0
+S61	False	UNICOG	3	F61	n/a	Right handed	SHFJ	M	n/a	223	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S61	True	n/a	n/a	French	False	23	n/a	n/a	0	1
+S62	False	UNICOG	3	F62	n/a	Right handed	SHFJ	F	n/a	211	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S62	True	n/a	n/a	French	False	n/a	n/a	True	0	1
+S63	False	UNICOG	3	F63	True	Right handed	Neurospin	F	n/a	312	n/a	0	Pushing mistakes 2 or 3 times	2.4	False	True	False	Basic	False	n/a	True	S63	True	Ok	n/a	French	False	19	False	n/a	0	1
+S64	False	UNICOG	3	F64	False	Right handed	Neurospin	F	n/a	343	n/a	0	Substractions were difficult for him/her	2.4	n/a	True	False	Basic	False	n/a	n/a	S64	True	Ok	n/a	French	False	21	False	n/a	0	1
+S65	False	UNICOG	3	F65	True	Right handed	Neurospin	M	n/a	314	n/a	0	Pushing mistakes 3 times	2.4	False	True	False	Basic	False	n/a	True	S65	True	Ok	n/a	French	False	19	False	n/a	0	1
+S66	False	UNICOG	3	F66	True	Right handed	Neurospin	M	n/a	366	n/a	0	Pushing mistakes 1 or 2 times. Voxel size (localizer) : 2x2x2 mm^3	2.4	n/a	True	False	Basic	False	n/a	True	S66	True	axial+artefacts	n/a	French	False	26	False	n/a	0	1
+S67	False	UNICOG	3	F67	n/a	Right handed	SHFJ	F	n/a	239	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S67	True	n/a	n/a	French	False	44	n/a	True	0	1
+S68	False	UNICOG	3	F68	n/a	Right handed	SHFJ	M	n/a	245	n/a	0	meme que S68	2.4	False	True	False	Basic	False	n/a	True	S68	True	n/a	n/a	French	False	20	n/a	n/a	0	3
+S69	n/a	UNICOG	3	F69	n/a	Right handed	SHFJ	F	n/a	353	n/a	0	Localizer not done	n/a	n/a	True	n/a	Basic	n/a	n/a	n/a	S69	n/a	n/a	n/a	French	n/a	21	n/a	n/a	0	0
+S70	False	UNICOG	3	F59	n/a	Right handed	SHFJ	M	n/a	208	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S70	True	n/a	n/a	French	False	25	n/a	n/a	0	1
+S71	False	UNICOG	3	F71	n/a	Right handed	SHFJ	M	n/a	185	n/a	0	meme que <sanitized>	2.4	False	True	False	Basic	False	n/a	True	S71	True	n/a	n/a	French	False	21	n/a	n/a	0	2
+S72	False	UNICOG	3	F72	False	Right handed	Neurospin	F	n/a	325	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	n/a	S72	True	Ok	n/a	French	False	37	False	n/a	0	1
+S73	False	UNICOG	3	F73	False	Right handed	Neurospin	M	n/a	348	n/a	0	n/a	2.4	n/a	True	False	Basic	False	n/a	n/a	S73	True	Ok	n/a	French	False	19	False	n/a	0	1
+S74	False	UNICOG	3	F74	n/a	Right handed	SHFJ	M	n/a	231	n/a	0	anat pourris mais existe au 1.5T	2.4	False	True	False	Basic	False	n/a	True	S74	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S75	False	UNICOG	3	F75	False	Right handed	Neurospin	M	n/a	328	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S75	True	Ok	n/a	French	False	20	False	n/a	0	1
+S76	False	UNICOG	3	F76	n/a	Right handed	SHFJ	F	n/a	187	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S76	True	n/a	n/a	French	False	28	n/a	n/a	0	1
+S77	False	UNICOG	3	F77	n/a	Right handed	SHFJ	F	n/a	120	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S77	True	n/a	n/a	French	False	23	n/a	n/a	0	1
+S78	False	UNICOG	3	F78	False	Right handed	Neurospin	M	n/a	321	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S78	True	Ok	n/a	French	False	29	False	n/a	0	1
+S79	False	UNICOG	3	F79	n/a	Right handed	SHFJ	F	n/a	222	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S79	True	n/a	n/a	French	False	43	n/a	True	0	1
+S80	False	UNICOG	3	F80	n/a	Right handed	SHFJ	F	n/a	198	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S80	True	n/a	n/a	French	False	19	n/a	n/a	0	1
+S81	False	UNICOG	3	F81	n/a	Right handed	SHFJ	M	n/a	241	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S81	True	n/a	n/a	French	False	n/a	n/a	n/a	0	1
+S82	False	UNICOG	3	F82	n/a	Right handed	SHFJ	F	n/a	219	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S82	True	n/a	n/a	French	False	20	n/a	n/a	0	1
+S83	False	UNICOG	3	F83	False	Right handed	Neurospin	F	n/a	331	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	n/a	S83	True	Ok	n/a	French	False	20	False	n/a	0	2
+S84	False	UNICOG	3	F84	n/a	Right handed	SHFJ	F	n/a	217	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S84	True	n/a	n/a	French	False	23	n/a	n/a	0	1
+S85	False	UNICOG	3	F85	n/a	Right handed	SHFJ	M	n/a	183	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S85	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S86	False	UNICOG	3	F86	False	Right handed	Neurospin	M	n/a	370	n/a	0	Some substraction errors. Voxel size (localizer) : 2x2x2 mm^3	2.4	n/a	True	False	Basic	False	n/a	True	S86	True	axial+artefacts	n/a	French	False	31	True	n/a	0	1
+S87	False	UNICOG	3	F87	n/a	Right handed	SHFJ	M	n/a	216	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S87	True	n/a	n/a	French	False	n/a	n/a	n/a	0	1
+S88	False	UNICOG	3	F88	n/a	Right handed	SHFJ	M	n/a	196	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S88	True	n/a	n/a	French	False	19	n/a	True	0	1
+S89	False	UNICOG	3	F89	True	Right handed	Neurospin	M	n/a	346	n/a	0	Rare pushing mistakes	2.4	n/a	True	False	Basic	False	n/a	n/a	S89	True	Ok	n/a	French	False	29	False	n/a	0	1
+S90	False	UNICOG	3	F90	n/a	Right handed	SHFJ	M	n/a	237	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S90	True	n/a	n/a	French	False	21	n/a	n/a	0	1
+S91	False	UNICOG	3	F91	False	Right handed	Neurospin	M	n/a	338	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	n/a	S91	True	Ok	n/a	French	False	23	False	n/a	0	1
+S92	False	UNICOG	3	F92	n/a	Right handed	SHFJ	F	n/a	220	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S92	True	n/a	n/a	French	False	26	n/a	True	0	1
+S93	False	UNICOG	3	F93	False	Right handed	Neurospin	M	n/a	332	n/a	0	Acquisition of anatomy in axial (pilote, the rest are in sagittal)	2.4	False	True	False	Basic	False	n/a	n/a	S93	True	Ok	n/a	French	False	36	False	n/a	0	1
+S94	False	UNICOG	3	F94	n/a	Right handed	SHFJ	M	n/a	210	n/a	0	n/a	2.4	False	True	False	Basic	False	n/a	True	S94	True	n/a	n/a	French	False	41	n/a	True	0	1
